@@ -1,0 +1,18 @@
+log,label
+User login success,INFO
+User logout success,INFO
+New connection established,INFO
+Database connection failed,ERROR
+Error while processing request,ERROR
+Connection timeout error,ERROR
+Memory usage high,WARNING
+Disk space running low,WARNING
+CPU usage warning,WARNING
+System crash due to out of memory,CRITICAL
+Server out of memory,CRITICAL
+Critical failure in database,CRITICAL
+Server started successfully,INFO
+User login failed,ERROR
+Disk space running low,WARNING
+Database connection timeout,ERROR
+Backup completed successfully,INFO
